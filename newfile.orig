@@ -1,0 +1,8 @@
+one
+two
+three
+<<<<<<< HEAD
+four
+=======
+4th
+>>>>>>> dev
